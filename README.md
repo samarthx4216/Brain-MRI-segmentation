@@ -61,7 +61,7 @@ Training log  → `checkpoints/train_log.csv`
 streamlit run app.py
 ```
 
-Open `http://localhost:8501` in your browser.
+Open `[http://localhost:8501](https://brain-mri-segmentation-satzuwvqxo53qxgkhyx52o.streamlit.app/)` in your browser.
 
 > **Note:** The app ships with a randomly-initialised model for demo purposes.  
 > Replace the `load_model()` function in `app.py` to load your trained weights:
